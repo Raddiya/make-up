@@ -1,0 +1,56 @@
+[
+    {
+      "id": "623ecf4a9eff963024298b90",
+      "picture": "image/3d-plastic.webp",
+      "name": "Mockup",
+      "price":"$400"
+    },
+    {
+      "id": "623ecf4aea613edc655c761d",
+      "picture": "image/empty-perfume-bottle.webp",
+      "name": "Perfume bottle",
+      "price":"$300"
+    },
+    {
+      "id": "623ecf4ab3c3e55718ca39bb",
+      "picture": "image/liquid-foundation409.webp",
+      "name": "Luquid foundation",
+      "price":"$600"
+    },
+    {
+      "id": "623ecf4a2cd780e063314481",
+      "picture": "image/face-powder-brush.webp",
+      "name": "Face powder brush",
+      "price":"$500"
+    },
+    {
+      "id": "623ecf4a32b1fe5d69d13d31",
+      "picture": "image/lipstick.webp",
+      "name": "Nude lipstick",
+      "price":"$700"
+    },
+    {
+      "id": "623ecf4ad6df89909451a72f",
+      "picture": "image/pomade-lipstick.webp",
+      "name": "Pomade lipstick",
+      "price":"$350"
+    },
+    {
+      "id": "623ecf4a2b29dbf449189b38",
+      "picture": "image/oil-bottle.webp",
+      "name": "Hair oil",
+      "price":"$350"
+    },
+    {
+      "id": "623ecf4aa152b179df7ae1db",
+      "picture": "image/realistic-pink-cosmetic.webp",
+      "name": "Pink conceler",
+      "price":"$340"
+    },
+    {
+      "id": "623ecf4a4ec2382818069ac0",
+      "picture": "image/cosmetic-packaging21.webp",
+      "name": "Body lotion",
+      "price":"$800"
+    }
+  ]
